@@ -1,1 +1,3 @@
 Recipes challenge
+
+In this challenge, I will be creating a website with links to three web pages. Each of these web pages will feature a recipe for delicious dishes! These include recipes for four cheese margherita pizza, asian-inspired Philly cheese steak, and ghormeh sabzi (a mainstay in my home). Each recipe includes headings for the recipe names, ingredients list, and cooking steps; an image of the dish; an unordered list for the recipe ingredients; and an ordered list for the preparation steps. Bon appetit!
