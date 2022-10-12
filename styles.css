@@ -1,0 +1,29 @@
+#title {
+    color:brown
+  }
+
+.alert-text {
+    color:crimson;
+  }
+
+  .unordered,
+  .ordered {
+    color:firebrick
+  }
+
+  h4 {
+    color:darkviolet
+  }
+
+  .heading.ingredients {
+    color:cornflowerblue
+  }
+
+  .heading.steps {
+    color:deepskyblue
+  }
+
+  .list .list1 {
+    color:indigo
+  }
+  
